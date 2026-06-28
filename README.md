@@ -1,90 +1,88 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Abhay Krishna K</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Open Source Contributor</h3>
+# Hi there 👋, I'm **Abhay Krishna K**
 
-<p align="center">
-  <a href="https://your-portfolio.com" target="_blank">
-    🌐 Portfolio
-  </a>
-  •
-  <a href="https://github.com/4bayy" target="_blank">
-    GitHub
-  </a>
-</p>
+### 💻 Software Engineer | Full Stack Developer | Open Source Contributor
+
+I'm passionate about building scalable web applications, solving real-world problems, and contributing to open-source projects. I enjoy learning new technologies and continuously improving my skills.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software Engineer passionate about building scalable web applications.
-- 🌱 Currently working at **Experion Technologies**.
-- ⚡ Interested in **Full Stack Development, React, Next.js, Node.js, TypeScript, and AI-powered applications**.
-- 🤝 Open to collaborating on **Open Source Projects**.
-- 📚 Always learning new technologies and improving problem-solving skills.
-- 🎯 Goal: Build impactful products and contribute to the developer community.
+* 💼 Software Engineer
+* 🌱 Currently exploring **AI-powered applications** and advanced **Full Stack Development**
+* 💻 Passionate about **React, Next.js, Node.js, TypeScript, and JavaScript**
+* 🤝 Open to collaborating on **Open Source** and innovative projects
+* 🎯 Always striving to write clean, maintainable, and efficient code
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
 
-### Database
-- MongoDB
-- MySQL
+* Node.js
+* Express.js
+* REST APIs
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
+### Databases
 
----
+* MongoDB
+* MySQL
 
-## 📌 Current Focus
+### Tools
 
-- 🚀 Building scalable full-stack applications
-- 🌍 Contributing to Open Source
-- 🤖 Exploring AI integrations in web applications
-- 📈 Strengthening Data Structures & Algorithms
+* Git
+* GitHub
+* VS Code
+* Postman
+* Figma
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4bayy&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bayy&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4bayy&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=4bayy&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bayy&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bayy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌱 Currently Learning
 
-- 🌍 Portfolio: https://your-portfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your-email@example.com
+* Advanced React Patterns
+* System Design
+* AI & LLM Integrations
+* Cloud & DevOps
+
+---
+
+## 📫 Connect with Me
+
+🌐 **Portfolio:** https://abhayk-portfolio.vercel.app/
+
+---
+
+## ⚡ Fun Fact
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-```
