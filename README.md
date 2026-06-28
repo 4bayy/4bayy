@@ -48,18 +48,6 @@ I'm passionate about building scalable web applications, solving real-world prob
 * Figma
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4bayy&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=4bayy&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bayy&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌱 Currently Learning
